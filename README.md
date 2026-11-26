@@ -1,8 +1,8 @@
 # Indonesia dalam Angka
 
-[![Bounty make.fun](https://img.shields.io/badge/make.fun-bounty-0e2a47?labelColor=e9a319)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
-[![Leaderboard make.fun](https://img.shields.io/badge/make.fun-leaderboard-e9a319?labelColor=0e2a47)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
-[![Entry make.fun](https://img.shields.io/badge/make.fun-entry-2f7d4f?labelColor=0e2a47)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Holladitt/makefun-best-national-statistics-site-20261126-0539-entry/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Holladitt/makefun-best-national-statistics-site-20261126-0539-entry/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 Situs statistik nasional Indonesia — **281,6 juta jiwa · PDB US$1,40 triliun · tumbuh 5,03% (2024)** —
 dengan angka nyata dari **BPS (Badan Pusat Statistik)** dan **World Bank**. Situs statis tanpa
